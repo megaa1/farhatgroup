@@ -761,7 +761,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
     display: flex;
     padding: 10px 0;
 }
-#contact-details .details ion-icon{
+#contact-details ion-icon{
     color: #1363DF;
     font-size: 20px;
     padding-left: 22px;
