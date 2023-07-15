@@ -1,5 +1,6 @@
 
   @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300;700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700&display=swap');
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -80,7 +81,7 @@
       scrollbar-width: none; /* Hide scrollbar Firefox */
   -ms-overflow-style: none; /* Hide scrollbar IE and Edge */
     scroll-behavior: smooth;
-  font-family: 'Lemonada', cursive;
+  font-family: 'cairo', cursive;
 }
 
 a { text-decoration: none; }
@@ -709,6 +710,8 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 .about-content h2 {
   color: #1363DF;
     font-size: 40px;
+    font-family: 'Lemonada', cursive;
+
 }
 .about-content p {
   margin-top: 1rem;
@@ -743,11 +746,15 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
     line-height: 35px;
     padding: 20px 0;
     color: #1363DF;
+    font-family: 'Lemonada', cursive;
+
 }
 #contact-details .details h3{
     font-size: 16px;
     padding-bottom: 15px;
     color: black;
+    font-family: 'Lemonada', cursive;
+
 }
 #contact-details .details li{
     list-style: none;
@@ -797,6 +804,8 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
     padding-bottom: 30px;
     color: #1363DF;
     text-align: left;
+    font-family: 'Lemonada', cursive;
+
 }
 
 #manager p{
@@ -891,6 +900,8 @@ footer h4{
     font-size: 18px;
     padding-bottom: 20px;
         animation:  fade 2s linear;
+    font-family: 'Lemonada', cursive;
+
 
 }
 footer p{
