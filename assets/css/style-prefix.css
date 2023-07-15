@@ -1,5 +1,5 @@
 
-
+  @import url('https://fonts.googleapis.com/css2?family=Lemonada:wght@300;700&display=swap');
 /*-----------------------------------*\
   #CUSTOM PROPERTY
 \*-----------------------------------*/
@@ -80,7 +80,7 @@
       scrollbar-width: none; /* Hide scrollbar Firefox */
   -ms-overflow-style: none; /* Hide scrollbar IE and Edge */
     scroll-behavior: smooth;
-    font-family: 'cairo';
+  font-family: 'Lemonada', cursive;
 }
 
 a { text-decoration: none; }
