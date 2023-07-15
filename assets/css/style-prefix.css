@@ -709,7 +709,7 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
 }
 .about-content h2 {
   color: #1363DF;
-    font-size: 40px;
+    font-size: 35px;
     font-family: 'Lemonada', cursive;
 
 }
